@@ -1,0 +1,5 @@
+
+aiogram==3.15.0
+aiosqlite==0.20.0
+python-dotenv==1.0.1
+matplotlib==3.9.2
